@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I spent a semester abroad in Beijing, 我想念和我的中国朋友说普通话！
 
+<a href="https://www.linkedin.com/in/sierra-syverud/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
