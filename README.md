@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn or send me an email at ssyverud@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I spent a semester abroad in Beijing, 我想念和我的中国朋友说普通话！
-- 
 
