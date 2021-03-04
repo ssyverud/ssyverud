@@ -1,6 +1,7 @@
 <h1 align="center"> Hello, I'm Sierra Syverud 👨‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | CS major </h3> <br>
+![Photography Studio Etsy Banner](https://user-images.githubusercontent.com/38635334/110016177-5aa6bb80-7cea-11eb-9df0-6852ff6e6bd6.gif)
 
 <!--
 **ssyverud/ssyverud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
