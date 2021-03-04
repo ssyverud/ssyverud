@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center"> Hello, I'm Sierra Syverud 👨‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | CS major </h3> <br>
