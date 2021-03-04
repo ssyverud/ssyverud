@@ -2,7 +2,7 @@
 
 <h3 align="center">  Tech Enthusiast | CS major </h3> <br>
 
-![Photography Studio Etsy Banner.gif]
+![](Photography Studio Etsy Banner.gif)
 
 <!--
 **ssyverud/ssyverud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
